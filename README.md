@@ -23,8 +23,8 @@ The project is organized into the following structure:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/buggy-justtestit.git
-cd buggy-justtestit
+git clone https://github.com/alijah-d/alijah-justtestit-pw.git
+cd alijah-justtestit-pw
 ```
 
 2. Clone the repository:
