@@ -48,15 +48,6 @@ PASSWORD=Test123!
 The project is configured with yarn scripts to run tests:
 
 ```bash
-# Run all tests
-yarn test
-
 # Run the update profile test
-yarn test tests/profile/tests/updateProfile.spec.ts
-
-# Run tests with UI mode
-yarn test --ui
-
-# Run tests with specific browser
-yarn test --project=chromium
+yarn test:updateProfile
 ```
